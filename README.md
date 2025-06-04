@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chu Vinh Khang</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam</h3>
+<h3 align="center">A passionate fullstack developer from</h3>
 
 - 📫 How to reach me **chu.v.khang@gmail.com**
 
